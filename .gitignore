@@ -1,0 +1,5 @@
+icons_dev/
+old/
+*.aux
+*.gz
+*.log

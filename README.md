@@ -14,3 +14,6 @@
 
  % © 2024 - Silvano Emanuel Roqués
 </pre>
+
+## Sample
+![Sample](sample.png)
